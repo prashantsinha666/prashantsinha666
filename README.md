@@ -1,33 +1,95 @@
-<h1 align="center">Hi 👋, I'm Prashant Sinha</h1>
-<h3 align="center">Front-End Developer | JavaScript Enthusiast | MERN Stack Explorer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantsinha666&label=Profile%20views&color=0e75b6&style=flat" alt="prashantsinha666" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashantsinha666" alt="prashantsinha666" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **enhancing my full-stack development skills**
-
-- 🌱 I’m currently learning **ReactJS ⚛️**
-
-- 👯 I’m looking to collaborate on **innovative and exciting projects**
-
-- 💬 Ask me about **Front-End Development, JavaScript, and the MERN Stack**
-
-- 📫 How to reach me **prashantsinha314@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/prashant-sinha9262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashant-sinha9262" height="30" width="40" /></a>
-<a href="https://instagram.com/prashantsinha9262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prashantsinha9262" height="30" width="40" /></a>
+<!-- Cover Image -->
+<p align="center">
+  <img src="https://your-cover-image-link-here" alt="cover" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Prashant Sinha</h1>
+<h3 align="center">💻 Front-End Developer | ⚡ JavaScript Enthusiast | 🌐 MERN Stack Explorer</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashantsinha666&show_icons=true&locale=en&layout=compact" alt="prashantsinha666" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prashantsinha666&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashantsinha666&show_icons=true&locale=en" alt="prashantsinha666" /></p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=prashantsinha666&theme=radical&margin-w=15&margin-h=15" alt="Trophies" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantsinha666&" alt="prashantsinha666" /></p>
+---
+
+### 🚀 About Me
+
+- 🔭 Currently working on **full-stack development**
+- 🌱 Learning **ReactJS ⚛️**
+- 🤝 Looking to collaborate on **innovative & exciting projects**
+- 💬 Ask me about **JavaScript, MERN Stack, Front-End Development**
+- 📫 Reach me at: **prashantsinha314@gmail.com**
+
+---
+
+### 📬 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/prashant-sinha9262" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/prashantsinha9262" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+#### 👨‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,java,python" alt="Languages" />
+</p>
+
+#### 🌐 Front-End Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,vue,tailwind" alt="Front-End" />
+</p>
+
+#### 🔧 Back-End Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Back-End" />
+</p>
+
+#### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure" alt="Cloud" />
+</p>
+
+#### 🧰 Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,androidstudio" alt="Tools" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prashantsinha666&show_icons=true&theme=tokyonight" alt="Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantsinha666&theme=tokyonight" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantsinha666&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+- 🎮 I love tech, coffee, and solving problems with code!
+<img width="1024" height="1024" alt="profile" src="https://github.com/user-attachments/assets/6907436c-f1ee-41e7-ad8e-198e3eaaa168" />
+<img width="1024" height="1024" alt="profile" src="https://github.com/user-attachments/assets/5d1c39f9-34bb-453e-85c9-57fb7277057d" />
