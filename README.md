@@ -1,7 +1,6 @@
 <!-- Cover Image -->
 <p align="center">
-<img width="1024" height="1024" alt="profile" src="https://github.com/user-attachments/assets/6907436c-f1ee-41e7-ad8e-198e3eaaa168" />![cover](https://github.com/user-attachments/assets/9940eb3d-10ac-492b-8d2d-689e1dd7c8ed)
-![cover](https://github.com/user-attachments/assets/c6be8d2d-7dd4-4e93-9c94-529fd3ba2f1d)
+<img width="1024" height="1024" alt="profile" src="https://github.com/user-attachments/assets/c6be8d2d-7dd4-4e93-9c94-529fd3ba2f1d" />
 
 </p>
 
