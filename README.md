@@ -1,6 +1,8 @@
 <!-- Cover Image -->
 <p align="center">
-  <img src="https://your-cover-image-link-here" alt="cover" />
+<img width="1024" height="1024" alt="profile" src="https://github.com/user-attachments/assets/6907436c-f1ee-41e7-ad8e-198e3eaaa168" />![cover](https://github.com/user-attachments/assets/9940eb3d-10ac-492b-8d2d-689e1dd7c8ed)
+![cover](https://github.com/user-attachments/assets/c6be8d2d-7dd4-4e93-9c94-529fd3ba2f1d)
+
 </p>
 
 <h1 align="center">Hi 👋, I'm Prashant Sinha</h1>
@@ -91,5 +93,5 @@
 ### ⚡ Fun Fact
 
 - 🎮 I love tech, coffee, and solving problems with code!
-<img width="1024" height="1024" alt="profile" src="https://github.com/user-attachments/assets/6907436c-f1ee-41e7-ad8e-198e3eaaa168" />
-<img width="1024" height="1024" alt="profile" src="https://github.com/user-attachments/assets/5d1c39f9-34bb-453e-85c9-57fb7277057d" />
+
+
